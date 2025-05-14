@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](https://github.com/gw-rodrigues/readme-template/assets/logo.png)
+![Logo](https://raw.githubusercontent.com/gw-rodrigues/readme-template/main/assets/logo.png)
 
 </div>
 
