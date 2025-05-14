@@ -30,6 +30,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea libero voluptate exp
 
 <br/><br/><br/>
 
+<!--
 <div align="center">
 
 ## 🧪 Technologies
@@ -57,6 +58,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea libero voluptate exp
 | [Lodash](https://lodash.com)                       | JavaScript utility library for working with arrays, numbers, objects, strings, etc. |
 | [Moment.js](https://momentjs.com)                  | Library for parsing, validating, manipulating, and formatting dates                 |
 | [Chart.js](https://www.chartjs.org)                | Simple, flexible charting library for designers & developers                        |
+-->
 
 <br/><br/><br/>
 
@@ -106,6 +108,8 @@ Go to [http://localhost:3000](http://localhost:3000) and enjoy.
 - [x] Deploy and documentation
 
 <br/><br/><br/>
+
+---
 
 <div align="center">
 
