@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea libero voluptate exp
 
 <div align="center">
 
-## 🛠 Instalação
+## 🛠 Instalation
 
 </div>
 
@@ -119,8 +119,12 @@ Go to [http://localhost:3000](http://localhost:3000) and enjoy.
 
 ---
 
-<small align="center">
+<div align="center">
+
+<small>
 
 Made with 💜 by [Gleydson W. Rodrigues](https://github.com/gw-rodrigues)
 
 </small>
+
+</div>
