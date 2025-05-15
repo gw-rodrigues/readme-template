@@ -102,10 +102,10 @@ Go to [http://localhost:3000](http://localhost:3000) and enjoy.
 
 </div>
 
-- [x] Initial functional version
-- [x] Add responsiveness
-- [x] Improve accessibility
-- [x] Deploy and documentation
+- [x] INITIAL FUNCTIONAL VERSION
+- [x] STYLE AND RESPONSIVENESS
+- [x] FIXES AND IMPROVEMENTS
+- [x] DEPLOY AND DOCUMENTATION
 
 <br/><br/><br/>
 
